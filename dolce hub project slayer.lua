@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/abcxyzawe/Dolce-Hub/main/Project%20Slayer"))()
